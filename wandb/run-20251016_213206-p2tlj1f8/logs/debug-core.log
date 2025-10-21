@@ -1,0 +1,7 @@
+{"time":"2025-10-16T21:32:06.8630719+02:00","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\imong\\AppData\\Local\\Temp\\tmpe6pro405\\port-51764.txt","pid":51764,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-10-16T21:32:06.8646793+02:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":51764}
+{"time":"2025-10-16T21:32:06.8646793+02:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"C:\\Users\\imong\\AppData\\Local\\Temp\\wandb-51764-47452-171660436\\socket","Net":"unix"}}
+{"time":"2025-10-16T21:32:06.8646793+02:00","level":"INFO","msg":"server: accepting connections","addr":{"IP":"127.0.0.1","Port":53705,"Zone":""}}
+{"time":"2025-10-16T21:32:07.0238877+02:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(127.0.0.1:53706)"}
+{"time":"2025-10-16T21:32:07.0436599+02:00","level":"INFO","msg":"handleInformInit: received","streamId":"p2tlj1f8","id":"1(127.0.0.1:53706)"}
+{"time":"2025-10-16T21:32:07.4355091+02:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"p2tlj1f8","id":"1(127.0.0.1:53706)"}

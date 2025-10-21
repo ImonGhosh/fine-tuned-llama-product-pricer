@@ -1,0 +1,7 @@
+{"time":"2025-10-17T15:10:29.4929744+02:00","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\imong\\AppData\\Local\\Temp\\tmpc778epdm\\port-14152.txt","pid":14152,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-10-17T15:10:29.4945796+02:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":14152}
+{"time":"2025-10-17T15:10:29.4945796+02:00","level":"INFO","msg":"server: accepting connections","addr":{"IP":"127.0.0.1","Port":63112,"Zone":""}}
+{"time":"2025-10-17T15:10:29.4951657+02:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"C:\\Users\\imong\\AppData\\Local\\Temp\\wandb-14152-18256-960066136\\socket","Net":"unix"}}
+{"time":"2025-10-17T15:10:29.6527631+02:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(127.0.0.1:63113)"}
+{"time":"2025-10-17T15:10:29.6717563+02:00","level":"INFO","msg":"handleInformInit: received","streamId":"oisklj8s","id":"1(127.0.0.1:63113)"}
+{"time":"2025-10-17T15:10:32.3805466+02:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"oisklj8s","id":"1(127.0.0.1:63113)"}

@@ -1,0 +1,7 @@
+{"time":"2025-10-16T20:39:36.8512816+02:00","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\imong\\AppData\\Local\\Temp\\tmps0ckuxj8\\port-34264.txt","pid":34264,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-10-16T20:39:36.8542455+02:00","level":"INFO","msg":"server: accepting connections","addr":{"IP":"127.0.0.1","Port":62264,"Zone":""}}
+{"time":"2025-10-16T20:39:36.8542455+02:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":34264}
+{"time":"2025-10-16T20:39:36.8571292+02:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"C:\\Users\\imong\\AppData\\Local\\Temp\\wandb-34264-44432-3646264928\\socket","Net":"unix"}}
+{"time":"2025-10-16T20:39:36.9934824+02:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(127.0.0.1:62265)"}
+{"time":"2025-10-16T20:39:37.0333004+02:00","level":"INFO","msg":"handleInformInit: received","streamId":"6xuq957e","id":"1(127.0.0.1:62265)"}
+{"time":"2025-10-16T20:39:38.1972296+02:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"6xuq957e","id":"1(127.0.0.1:62265)"}

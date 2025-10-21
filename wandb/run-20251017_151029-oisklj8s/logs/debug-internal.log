@@ -1,0 +1,16 @@
+{"time":"2025-10-17T15:10:29.6722741+02:00","level":"INFO","msg":"stream: starting","core version":"0.21.1"}
+{"time":"2025-10-17T15:10:32.3805466+02:00","level":"INFO","msg":"stream: created new stream","id":"oisklj8s"}
+{"time":"2025-10-17T15:10:32.3805466+02:00","level":"INFO","msg":"stream: started","id":"oisklj8s"}
+{"time":"2025-10-17T15:10:32.3805466+02:00","level":"INFO","msg":"writer: started","stream_id":"oisklj8s"}
+{"time":"2025-10-17T15:10:32.3805466+02:00","level":"INFO","msg":"sender: started","stream_id":"oisklj8s"}
+{"time":"2025-10-17T15:10:32.3805466+02:00","level":"INFO","msg":"handler: started","stream_id":"oisklj8s"}
+{"time":"2025-10-17T15:36:15.3423763+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/imonghose-otto-von-guericke-university-magdeburg/pricer/oisklj8s/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-10-17T15:36:17.3783605+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/imonghose-otto-von-guericke-university-magdeburg/pricer/oisklj8s/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-10-17T15:36:22.2988986+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/imonghose-otto-von-guericke-university-magdeburg/pricer/oisklj8s/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-10-17T15:36:25.7822863+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.179.87:63118->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-10-17T15:36:27.8859087+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-10-17T15:36:31.8208858+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/imonghose-otto-von-guericke-university-magdeburg/pricer/oisklj8s/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-10-17T15:36:32.4652366+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-10-17T15:36:42.0089285+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-10-17T15:36:50.5238217+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/imonghose-otto-von-guericke-university-magdeburg/pricer/oisklj8s/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-10-17T20:05:43.3020461+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
