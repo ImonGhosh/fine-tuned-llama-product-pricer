@@ -100,3 +100,12 @@ print(f"Memory footprint: {fine_tuned_model.get_memory_footprint() / 1e6:.1f} MB
 - `01-10*.ipynb`: Sequential experimentation notebooks covering curation, baselines, frontier models, QLoRA fine-tuning, evaluation, and leaderboard analysis.
 - `wandb/`: Tracking artifacts for hyperparameters and experiment metrics.
 
+## Cloud Deployment
+
+A reproducible serverless deployment using **Modal** to host the fine-tuned **LLaMA 3.1 8B (QLoRA adapters)** for on-demand inference.
+
+- **Notebook:** `11_model_cloud_deployment.ipynb`
+- **Platform:** Modal serverless GPU
+- **Status:** The app and endpoint are defined and deployable, but **not currently live**.
+
+
