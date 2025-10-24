@@ -1,7 +1,7 @@
 # Fine-Tuned LLaMA Product Pricer
 
 ## Goal
-Build a robust product price prediction system for Amazon marketplace listings and compare traditional ML, frontier LLMs, and a fine-tuned open-source small language model.
+Build a robust product price prediction system for Amazon marketplace listings and compare traditional ML, frontier LLMs with fine-tuned Llama 3.1 8B open-source small language model.
 
 ## Process Overview
 1. **Dataset Curation** (`01-dataset-curation-1.ipynb`, `02-dataset-curation-2.ipynb`)
@@ -99,3 +99,4 @@ print(f"Memory footprint: {fine_tuned_model.get_memory_footprint() / 1e6:.1f} MB
 ## Repository Structure
 - `01-10*.ipynb`: Sequential experimentation notebooks covering curation, baselines, frontier models, QLoRA fine-tuning, evaluation, and leaderboard analysis.
 - `wandb/`: Tracking artifacts for hyperparameters and experiment metrics.
+
